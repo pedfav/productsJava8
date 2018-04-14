@@ -1,0 +1,6 @@
+com\avenuecode\product\test\json\ProductJsonTest.class
+com\avenuecode\product\test\json\ImageJsonTest.class
+com\avenuecode\product\test\resource\ImageResourceTest.class
+com\avenuecode\product\test\service\ProductServiceTest.class
+com\avenuecode\product\test\resource\ProductResourceTest.class
+com\avenuecode\product\test\service\ImageServiceTest.class

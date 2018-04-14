@@ -1,0 +1,13 @@
+com\avenuecode\product\resource\ImageResource.class
+com\avenuecode\product\service\ImageService.class
+com\avenuecode\product\main.class
+com\avenuecode\product\model\Product.class
+com\avenuecode\product\service\ProductService.class
+com\avenuecode\product\model\Image.class
+com\avenuecode\product\repository\ProductRepository.class
+com\avenuecode\product\resource\ProductResource.class
+com\avenuecode\product\service\IProductService.class
+com\avenuecode\product\repository\ImageRepository.class
+com\avenuecode\product\service\IImageService.class
+com\avenuecode\product\ProductApplication.class
+com\avenuecode\product\config\JerseyConfig.class
